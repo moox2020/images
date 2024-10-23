@@ -1,1 +1,1 @@
-FROM FROM shenyisyn/prod:v1
+FROM shenyisyn/prod:v1
